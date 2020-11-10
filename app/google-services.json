@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "494556318809",
+    "firebase_url": "https://irecipe-app-ddfa6.firebaseio.com",
+    "project_id": "irecipe-app-ddfa6",
+    "storage_bucket": "irecipe-app-ddfa6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494556318809:android:b5b64c20e2303e57ba3548",
+        "android_client_info": {
+          "package_name": "com.example.recipeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494556318809-bf526niob8r8mi1rsaq7d7fsql47qtnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMLU5lAms70qxI-yNsl8gUhZ1L88WpmTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494556318809-bf526niob8r8mi1rsaq7d7fsql47qtnd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
